@@ -1,4 +1,4 @@
-R code to visualize data using 3 different plotting techniques (scatter plot, lattice plot, ggplot).
+#R code to visualize data using 3 different plotting techniques (scatter plot, lattice plot, ggplot).
 
 Y = data("mtcars")
 
